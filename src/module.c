@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <Python.h>
 #include <math.h>
 #include "module.h"
 

@@ -1,6 +1,5 @@
 #include "module.h"
 #include "orbit.h"
-#include <Python.h>
 
 double calculate_circular_vel(double height) 
 {
