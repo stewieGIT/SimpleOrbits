@@ -7,7 +7,7 @@ double calculate_circular_vel(double height)
 	return sqrt((MU) / h);
 }
 
-PyObject *py_calc_circular_vel(PyObject *self, PyObject *args) {
+PyObject *calc_circular_vel(PyObject *self, PyObject *args) {
 	double height;
 
     /* Parse arguments */

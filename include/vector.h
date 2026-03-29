@@ -2,5 +2,4 @@
 #define VECTOR_H
 
 
-
 #endif
